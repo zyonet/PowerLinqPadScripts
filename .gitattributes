@@ -1,0 +1,4 @@
+*.linq   text
+
+#linqpad scripts as c#
+*.linq linguist-language=C#
